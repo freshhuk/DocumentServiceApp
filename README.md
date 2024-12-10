@@ -35,9 +35,12 @@ Tools
 
 API microservice
 - https://github.com/freshhuk/DocumentService
+  
 Postgres microservice
 - https://github.com/freshhuk/DocumentData
+  
 Mongo microservice
 - https://github.com/freshhuk/DocumentDataMongo
+  
 Authorization microservice
 - https://github.com/freshhuk/DocumentAuth
