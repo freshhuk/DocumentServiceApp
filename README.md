@@ -18,13 +18,17 @@ To facilitate communication between the microservices, RabbitMQ is used as the m
 Main
 - Java
 - SpringFramework(boot, security, web, data)
+  
 Database
 - PostgreSQL
 - MongoDB
+  
 ORM
 - Hibernate
+  
 Tests
 - JUnit/Mockito
+  
 Tools
 - Maven
 - Docker/Docker-compose
